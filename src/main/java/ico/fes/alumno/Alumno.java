@@ -12,7 +12,7 @@ import ico.fes.persona.Persona;
 
 /**
  *
- * @author escri
+ * @author Imanol Solano
  */
 public class Alumno extends Persona {
     

@@ -10,7 +10,7 @@ import ico.fes.persona.Persona;
 
 /**
  *
- * @author escri
+ * @author Imanol Solano
  */
 public class Herencia {
     public static void main(String[] args) {

@@ -7,7 +7,7 @@ package ico.fes.persona;
 
 /**
  *
- * @author escri
+ * @author Imanol Solano
  */
 public class Persona {
     private String nombre;
